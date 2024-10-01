@@ -11,7 +11,7 @@ Soy **Data Analyst** y **Junior Data Scientist** con experiencia en análisis de
   
 📫 **¿Cómo puedes contactarme?**  
 - [LinkedIn](https://www.linkedin.com/in/guillermomartinordaz/)  
-- Email: guillermo.martin@gmail.com  
+- Email: guillemartinordaz@gmail.com  
 
 ⚡ **Habilidades Técnicas**:
 - Lenguajes: Python, SQL  
